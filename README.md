@@ -39,7 +39,6 @@ I also practice problem solving every day on [LeetCode](https://leetcode.com/u/G
 
 ## 🚀 What I'm Working On
 
-- 🎬 **Cinema Salaymieh**: a cinema booking platform for my city, built with my team (React + NestJS + Prisma + PostgreSQL)
 - 🎓 Completing the **Bytes4Future** Full-Stack bootcamp (Next.js + NestJS)
 - 🧠 Solving LeetCode problems daily to improve my problem-solving skills
 - 🌱 Building portfolio projects that solve real problems

@@ -1,4 +1,4 @@
-# Hi, I'm Allaith 👋
+# Hi, I'm Allaith 
 
 **Junior Full-Stack Developer** from Salamiyah, Syria 🇸🇾
 
